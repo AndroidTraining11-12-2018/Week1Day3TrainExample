@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YEpper</string>
+
+    <string name="hello_world">elloh</string>
+    <string name="i_am_a_message">I am a message</string>
+    <string name="blabla">message 2</string>
+</resources>

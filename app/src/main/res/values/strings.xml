@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Is Fun!</string>
+    <string name="hello_world">Hello</string>
+    <string name="i_am_a_message">I am a message</string>
+    <string name="blabla">message 2</string>
+
+</resources>
